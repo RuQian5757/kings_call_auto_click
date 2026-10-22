@@ -1,0 +1,6 @@
+__pycache__/
+debug/
+build/
+dist/
+*.spec
+button_positions.json
